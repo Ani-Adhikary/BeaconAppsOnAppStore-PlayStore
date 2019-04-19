@@ -1,0 +1,1 @@
+# BeaconAppsOnAppStore-PlayStore
