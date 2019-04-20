@@ -12,8 +12,15 @@ https://itunes.apple.com/us/app/beacon-scan/id1011834079?mt=8 <br />
 Beacon Simulator <br />
 =============
 
+iOS
+==
 Quick Beacon <br />
 https://itunes.apple.com/us/app/quick-beacon/id1303172948?mt=8 <br />
 
 Beacon Simulator <br />
 https://itunes.apple.com/us/app/beacon-simulator/id1098267039?mt=8 <br />
+
+Android 
+==
+Beacon Simulator <br />
+https://play.google.com/store/apps/details?id=net.alea.beaconsimulator&hl=en_IN <br />
