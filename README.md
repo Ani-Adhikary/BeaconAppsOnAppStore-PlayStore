@@ -25,3 +25,11 @@ https://play.google.com/store/apps/details?id=net.alea.beaconsimulator&hl=en_IN 
 
 Beacon Wizard <br />
 https://play.google.com/store/apps/details?id=com.futureorb.wizard&hl=en <br />
+
+
+iBeacon Tutorial
+============
+
+https://www.hackingwithswift.com/example-code/location/how-to-detect-ibeacons <br />
+
+https://developer.apple.com/documentation/corelocation/determining_the_proximity_to_an_ibeacon_device <br />
